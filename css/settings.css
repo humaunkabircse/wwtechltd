@@ -2426,6 +2426,7 @@ zoom: 1;
 		font-family: "raleway";
 		text-transform:none;
 		font-weight: bold;
+	  letter-spacing:5px!important;
 		/*font-size: 60px !important;
 	  line-height:70px!important;
 	  margin-bottom:100px!important;*/
